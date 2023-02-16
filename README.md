@@ -1,6 +1,6 @@
 # Infinite text-based dungeon crawler
 
-This text-based dungeon crawler that never ends. Written in Python, the game features the following for your infinite enjoyment:
+This is a text-based dungeon crawler that never ends. Written in Python, the game features the following for your infinite enjoyment:
 
 - Weapons
 - Enchantments
